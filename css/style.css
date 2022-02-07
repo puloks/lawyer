@@ -8,6 +8,9 @@
 	-o-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 }
+html{
+	scroll-behavior: smooth;
+}
 body{
 	font-family: 'Open Sans', sans-serif;
 	transition: 0.8s;
